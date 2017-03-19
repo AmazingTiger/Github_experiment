@@ -1,0 +1,4 @@
+The repository is cloned on the desktop at home and a txt file is added.
+Then git add .
+    git commit -m "desktop at home"
+    git push origin master
